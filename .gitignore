@@ -1,0 +1,10 @@
+downloads/
+exports/
+scratch/
+.env
+
+.direnv/
+.venv/
+
+__pycache__/
+
