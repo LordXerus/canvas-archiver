@@ -3,7 +3,7 @@ import re
 import sys
 from datetime import datetime
 from api_client import list_courses, get_course_modules, get_module_items, get_file_info, download_file
-from playwright_client import download_with_browser
+# from playwright_client import download_with_browser
 from manifest import Manifest
 
 def sanitize_filename(name):
